@@ -10,7 +10,7 @@ I'm a passionate Front-End Developer. I love building clean, modern, and user-fr
 * ✉️  You can contact me at [your-email saadelsayed915@gmail.com
 * 🧠  I'm currently working with HTML5 | CSS3 | JavaScript | Tailwind CSS | React JS | C++
 * 🤝  I'm open to collaborating on Front-End Projects | Open Source | Web Apps 
-* ⚡  Hobbies = Photography | Coding | Fitness | Travelling
+* ⚡  Hobbies = Soft Skill | Coding | Problem-Solving | Googling | Communication
 
 <h3 align="center">Technical Skills</h3>
 
